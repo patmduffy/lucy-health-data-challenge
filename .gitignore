@@ -1,2 +1,8 @@
+# macOS
 .DS_Store
+
+# Jupyter Notebooks
 .ipynb_checkpoints/
+
+# Ignore raw data files
+data/*.csv
